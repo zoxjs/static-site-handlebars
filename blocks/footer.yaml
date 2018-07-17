@@ -1,0 +1,12 @@
+copyright: Copyright © 2018
+linkGroups:
+  - title: Group 1
+    links:
+      - { title: Link 1, url: / }
+      - { title: Link 2, url: / }
+      - { title: Link 3, url: / }
+  - title: Group 2
+    links:
+      - { title: Link 4, url: / }
+      - { title: Link 5, url: / }
+      - { title: Link 6, url: / }

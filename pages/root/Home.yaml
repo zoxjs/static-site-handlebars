@@ -1,0 +1,31 @@
+title: Home
+url: /
+type: home
+heroTitle: Zox.js
+heroText: Static Site Template with Handlebars
+ctaText: Get Started
+ctaUrl: /get-started
+highlights:
+  - title: Templates and React
+    text.md: |-
+      Use your favorite templating engine combined with a powerful rendering pipeline.<br>
+      Embed React into your pages to give them life.
+
+      Built-in Server-side rendering for React will make your
+      pages search engine friendly and let them load faster.
+    url: http://zoxjs.com/docs/render-service
+  - title: Static Site Generation
+    text.md: |-
+      Write your blog posts in markdown or create general purpose pages in yaml.
+
+      The data will simply be passed to your templates, no coding required.
+
+      Using React instead of traditional templates is also possible.
+    url: http://zoxjs.com/docs/static-site-setup
+  - title: GraphQL
+    text.md: |-
+      Create decoupled GraphQL resolvers in a similar way you would create REST controllers
+      and let the built-in schema builder create the actual GraphQL schema for you.
+
+      Subscribe to any GraphQL subscription endpoint via WebSocket or EventStream.
+    url: http://zoxjs.com/docs/graphql-intro
